@@ -1,0 +1,14 @@
+layout_spectrum: 0.7629180327057838
+typography_spectrum: 0.3332080158870667
+color:
+  brandStrength: 0.9172543240711093
+  lightness: 0.13778157252818346
+  saturation: 0.2744282621424645
+  rhythmicContrast: 0.7234537908807397
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: DCT
